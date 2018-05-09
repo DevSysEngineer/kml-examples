@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark>
+            <name>00000130</name>
+            <description>52.37516, 4.54544, 0
+                09:17:14 PM
+                May 08, 2018
+            </description>
+            <visibility>1</visibility>
+            <Style>
+                <IconStyle>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon>
+                        <href>http://maps.google.com/mapfiles/kml/shapes/capital_big.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Point>
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>4.54544, 52.37516, 0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
